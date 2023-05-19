@@ -1,0 +1,18 @@
+IMAGE CAPTIONING
+technique of generating descriptive text [multi model technique]
+
+input image---->extract feature---->translate feature into text----->Output
+
+based on:
+
+convolution neural network(CNN model)-->extract feature
+
+reccuring neural network(RNN model)-->translate image provided by CNN
+
+Application:
+
+1.Image Search Tools
+2.Guidance Device-->scene can be converted to text-->voice 
+3.Self Driving Car
+
+*Generate Image Captions fom Images-Restructure VGG16 model
